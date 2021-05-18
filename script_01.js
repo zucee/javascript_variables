@@ -82,4 +82,3 @@ console.log("nix: "+ typeof nix);
 console.log("ageJohn: "+ typeof ageJohn);
 console.log("firstName: "+ typeof firstName);
 console.log("isJohnOlder: "+ typeof isJohnOlder);
-
